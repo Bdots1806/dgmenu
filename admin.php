@@ -79,6 +79,7 @@
 
             <br>
             <a class="uk-button-default uk-button-large uk-button" href="menu.html" target="_self">See the menu</a>
+              <a class="uk-button-default uk-button-large uk-button" href="index.html" target="_self">Log Out</a>
 
             <div data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay:100}">
               <img class="tm-img-bottom-center" src="images/demo/default/content/dish-5.png" alt="demo" width="340" height="150">
